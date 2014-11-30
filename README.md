@@ -1,7 +1,7 @@
 citycoder 0.1
 =============
 
-Geocoder to convert free-form location strings to structured data. Focused on city level and higher (region/state/country).
+Geocoder to convert free-form location strings to structured data. Focused on city level and higher (region/state/country) and runs locally.
 
 If you're dealing with user supplied location strings (for example from Twitter bios) and want to convert them into structured data (i.e extract country) then that's what citycoder will give you. It runs entirely locally so you don't need to rely on third-party geocoding services like geomind, etc.
 
